@@ -1,4 +1,4 @@
-sy] Bag Inventory:
+[Easy] Bag Inventory:
 Description:
 
 So to help out all the trick or treaters we need to develop a tool to help inventory their candy haul for the night. You will be given a text file that contains a listing of every piece of candy in the bag. Your challenge is to develop a solution to inventory the candy and print out a summary of how much candy you got.
